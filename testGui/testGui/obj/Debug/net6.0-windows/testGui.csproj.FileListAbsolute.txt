@@ -1,0 +1,9 @@
+C:\Users\RobenRomeo\Desktop\gitegylet\KA_12D.github.io\Roben Rómeó\c#\testGui\testGui\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\RobenRomeo\Desktop\gitegylet\KA_12D.github.io\Roben Rómeó\c#\testGui\testGui\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\RobenRomeo\Desktop\gitegylet\KA_12D.github.io\Roben Rómeó\c#\testGui\testGui\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\RobenRomeo\Desktop\gitegylet\KA_12D.github.io\Roben Rómeó\c#\testGui\testGui\obj\Debug\net6.0-windows\testGui_MarkupCompile.cache
+C:\Users\RobenRomeo\Desktop\gitegylet\KA_12D.github.io\Roben Rómeó\c#\testGui\testGui\obj\Debug\net6.0-windows\testGui.g.resources
+C:\Users\RobenRomeo\Desktop\gitegylet\KA_12D.github.io\Roben Rómeó\c#\testGui\testGui\obj\Debug\net6.0-windows\testGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobenRomeo\Desktop\gitegylet\KA_12D.github.io\Roben Rómeó\c#\testGui\testGui\obj\Debug\net6.0-windows\testGui.AssemblyInfoInputs.cache
+C:\Users\RobenRomeo\Desktop\gitegylet\KA_12D.github.io\Roben Rómeó\c#\testGui\testGui\obj\Debug\net6.0-windows\testGui.AssemblyInfo.cs
+C:\Users\RobenRomeo\Desktop\gitegylet\KA_12D.github.io\Roben Rómeó\c#\testGui\testGui\obj\Debug\net6.0-windows\testGui.csproj.CoreCompileInputs.cache
