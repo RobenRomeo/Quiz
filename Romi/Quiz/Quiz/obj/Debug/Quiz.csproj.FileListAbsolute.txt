@@ -1,0 +1,9 @@
+C:\Users\RobenRomeo\Desktop\quizgit3\Quiz\Romi\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\RobenRomeo\Desktop\quizgit3\Quiz\Romi\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\RobenRomeo\Desktop\quizgit3\Quiz\Romi\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\RobenRomeo\Desktop\quizgit3\Quiz\Romi\Quiz\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+C:\Users\RobenRomeo\Desktop\quizgit3\Quiz\Romi\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\RobenRomeo\Desktop\quizgit3\Quiz\Romi\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+C:\Users\RobenRomeo\Desktop\quizgit3\Quiz\Romi\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\RobenRomeo\Desktop\quizgit3\Quiz\Romi\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\RobenRomeo\Desktop\quizgit3\Quiz\Romi\Quiz\Quiz\obj\Debug\Quiz.pdb
