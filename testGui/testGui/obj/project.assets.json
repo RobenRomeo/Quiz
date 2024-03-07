@@ -1,26 +1,51 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "Quiz/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Quiz.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Quiz.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Quiz/1.0.3": {
+      "sha512": "X2zPZLIIG9ccNAusxydou0Aw1gm/fE/mmKwzR3y7bbNzEpbN3R6qFUl2c+iztqGCQ1UlgyH9ZL7SLHF41VSWFg==",
+      "type": "package",
+      "path": "quiz/1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/Quiz.dll",
+        "quiz.1.0.3.nupkg.sha512",
+        "quiz.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "Quiz >= 1.0.3"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\RobenRomeo\\.nuget\\packages\\": {}
+    "C:\\Users\\SimonRoland\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RobenRomeo\\Desktop\\gitegylet\\KA_12D.github.io\\Roben Rómeó\\c#\\testGui\\testGui\\testGui.csproj",
+      "projectUniqueName": "C:\\Users\\SimonRoland\\Desktop\\quiz\\Quiz\\testGui\\testGui\\testGui.csproj",
       "projectName": "testGui",
-      "projectPath": "C:\\Users\\RobenRomeo\\Desktop\\gitegylet\\KA_12D.github.io\\Roben Rómeó\\c#\\testGui\\testGui\\testGui.csproj",
-      "packagesPath": "C:\\Users\\RobenRomeo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RobenRomeo\\Desktop\\gitegylet\\KA_12D.github.io\\Roben Rómeó\\c#\\testGui\\testGui\\obj\\",
+      "projectPath": "C:\\Users\\SimonRoland\\Desktop\\quiz\\Quiz\\testGui\\testGui\\testGui.csproj",
+      "packagesPath": "C:\\Users\\SimonRoland\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SimonRoland\\Desktop\\quiz\\Quiz\\testGui\\testGui\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\RobenRomeo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SimonRoland\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -45,6 +70,12 @@
     "frameworks": {
       "net6.0-windows7.0": {
         "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "Quiz": {
+            "target": "Package",
+            "version": "[1.0.3, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

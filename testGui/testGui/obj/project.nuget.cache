@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wljhIb0NxBtQ2v5oVtZMxuwuYmW0AI9oz6QeblaPXoBRkX/z6ZHFD8EGxOpclAqluu2Cbotb/68bW/euMHes2w==",
+  "dgSpecHash": "QI3XgJGakjMRuBabmB6zj9qP+C4SwNNDkc1W8Ypw5J9ujvABZC7tlOVtxxAittww8JVxD/0lPT+a5DsjcyWDDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RobenRomeo\\Desktop\\gitegylet\\KA_12D.github.io\\Roben Rómeó\\c#\\testGui\\testGui\\testGui.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\SimonRoland\\Desktop\\quiz\\Quiz\\testGui\\testGui\\testGui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SimonRoland\\.nuget\\packages\\quiz\\1.0.3\\quiz.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

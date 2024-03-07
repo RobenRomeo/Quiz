@@ -5,7 +5,24 @@
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v6.0": {}
+    ".NETCoreApp,Version=v6.0": {
+      "Quiz/1.0.3": {
+        "runtime": {
+          "lib/net5.0/Quiz.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      }
+    }
   },
-  "libraries": {}
+  "libraries": {
+    "Quiz/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X2zPZLIIG9ccNAusxydou0Aw1gm/fE/mmKwzR3y7bbNzEpbN3R6qFUl2c+iztqGCQ1UlgyH9ZL7SLHF41VSWFg==",
+      "path": "quiz/1.0.3",
+      "hashPath": "quiz.1.0.3.nupkg.sha512"
+    }
+  }
 }

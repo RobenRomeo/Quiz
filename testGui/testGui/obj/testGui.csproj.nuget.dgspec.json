@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RobenRomeo\\Desktop\\gitegylet\\KA_12D.github.io\\Roben Rómeó\\c#\\testGui\\testGui\\testGui.csproj": {}
+    "C:\\Users\\SimonRoland\\Desktop\\quiz\\Quiz\\testGui\\testGui\\testGui.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RobenRomeo\\Desktop\\gitegylet\\KA_12D.github.io\\Roben Rómeó\\c#\\testGui\\testGui\\testGui.csproj": {
+    "C:\\Users\\SimonRoland\\Desktop\\quiz\\Quiz\\testGui\\testGui\\testGui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RobenRomeo\\Desktop\\gitegylet\\KA_12D.github.io\\Roben Rómeó\\c#\\testGui\\testGui\\testGui.csproj",
+        "projectUniqueName": "C:\\Users\\SimonRoland\\Desktop\\quiz\\Quiz\\testGui\\testGui\\testGui.csproj",
         "projectName": "testGui",
-        "projectPath": "C:\\Users\\RobenRomeo\\Desktop\\gitegylet\\KA_12D.github.io\\Roben Rómeó\\c#\\testGui\\testGui\\testGui.csproj",
-        "packagesPath": "C:\\Users\\RobenRomeo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RobenRomeo\\Desktop\\gitegylet\\KA_12D.github.io\\Roben Rómeó\\c#\\testGui\\testGui\\obj\\",
+        "projectPath": "C:\\Users\\SimonRoland\\Desktop\\quiz\\Quiz\\testGui\\testGui\\testGui.csproj",
+        "packagesPath": "C:\\Users\\SimonRoland\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SimonRoland\\Desktop\\quiz\\Quiz\\testGui\\testGui\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RobenRomeo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SimonRoland\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Quiz": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
